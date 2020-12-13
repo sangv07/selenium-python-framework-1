@@ -17,6 +17,6 @@ It will login Chrome Browser find course and try to purchase using Credit Card.
 ## Run
 '''
 Terminal
-first go to folder when you project reside.
+first go to folder when your project reside.
 and run =>  tests/courses/register_courses_tests.py --browser chrome
 '''
